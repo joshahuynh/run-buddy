@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://joshahuynh.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Josh
 
 ### ©️2019 Run Buddy, Inc 
